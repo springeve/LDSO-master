@@ -127,3 +127,4 @@ third-party libraries. Among other's it comes with the source of:
  - Sophus ([MIT](https://github.com/strasdat/Sophus/blob/master/LICENSE.txt))
  - g2o ([BSD, GPL, LGPL, ...](https://github.com/RainerKuemmerle/g2o/blob/master/README.md))
  - DBoW3 ([BSD](https://github.com/raulmur/ORB_SLAM2/blob/master/Thirdparty/DBoW2/LICENSE.txt))
+# LDSO-master
